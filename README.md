@@ -24,6 +24,7 @@ The Folder **Datasets** contains all datasets used in the project
 - Numpy
 - Pandas
 - Seaborn
+- Matplotlib
 - Scikit-learn
 
 I recommend using the open data science platform **Anaconda** To run the .ipynb file.
