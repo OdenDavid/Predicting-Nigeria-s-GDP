@@ -17,6 +17,7 @@ An overall 84% model accuracy is achieved.
 ### Description of Files
 The file containing the source code is a jupyter notebook file
 > Predicting GDP
+
 The Folder **Datasets** contains all datasets used in the project
 
 ### Packages Required
